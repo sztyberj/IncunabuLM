@@ -4677,3 +4677,5 @@ napisano, niech stoi. Z ktorych telko tym,
 ktorzy lepiej umieją, dawam poręczam
 sie poprawiać.
 Corrige lector, ubi erravit scriptor.
+
+<|endoftext|>
