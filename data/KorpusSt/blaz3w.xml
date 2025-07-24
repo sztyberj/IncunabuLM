@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!DOCTYPE TEI.2 SYSTEM "Stp.dtd">
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Żywot świętego Błażeja: wersja elektroniczna </title>
+				<sponsor>Komitet Badań Naukowych, grant nr 1 H01D 018 19 </sponsor>
+				<principal> Wacław Twardzik</principal>
+				<respStmt>
+					<resp>stworzenie dokumentu elektronicznego </resp>
+					<name>Pracownia Języka Staropolskiego Instytutu Języka Polskiego Polskiej Akademii Nauk </name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Instytut Języka Polskiego PAN</distributor>
+							</publicationStmt>
+			<sourceDesc>
+				<bibl>Wydra, W., Rzepka W.R.: Chrestomatia staropolska. Teksty do roku 1543. Zakład Narodowy im. Ossolińskich. Wrocław 1984, na podstawie rkpsu Biblioteki Zakładu Narodowego im. Ossolińskich 1451 II</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date></date>
+			</creation>
+			<textClass>
+				<keywords>
+					<term></term>
+					<term></term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change n="1">
+				<date value="09-2005">wrzesień 2005</date>
+				<respStmt>
+					<resp>Rafał L. Górski</resp>
+				</respStmt>
+				<item>nowy nagłówek, likwidacja twardych zakończeń akapitu</item>
+			</change>
+			<change n="2"><date value="04-04-2007">4 kwietnia  2007</date>
+ <respStmt>
+  <resp>Maciej Eder, Rafał L. Górski</resp>
+ </respStmt>
+   <item>likwidacja twardych zakończeń akapitu przed lb</item>
+   </change>
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body><div1 type="utwór"> <cb n="1a"></cb> <lb n="1"/> <gap></gap> jich łapać. Teda uźrzewszy to ci <lb n="2"/> iści łowcy, jeli od nich i powiedzie<supplied>l</supplied>i <lb n="3"/> swemu starzejszemu, jenże przyczyniw <lb n="4"/> więcej panostwa, i posłał <lb n="5"/> je ku świętemu Błażeju, każę <lb n="6"/> świętego Błażeja przed się przywieść. <lb n="7"/> Tej istej nocy Krystus świętemu <lb n="8"/> sie Błażeju pokazał a rzkąc jemu: <lb n="9"/> Błażeju, żywą ofierę mnie <lb n="10"/> ofieruj! Potem z jutra ry<corr>c</corr>erze <lb n="11"/> i panosze poń przyjeli a rzkąc: <lb n="12"/> Błażeju, wynidzi, woła cie książę! <lb n="13"/> Teda wystąpiw święty Błażej, <lb n="14"/> przywitał je a rzkąc jim: Dobrzeście <lb n="15"/> przyszli, synowie mili, już w<supplied>i</supplied>dzę, <lb n="16"/> iż mie Bog nie zapomniał, <lb n="17"/> <supplied>g</supplied>otowcieśm s wami jechać, <lb n="18"/> gdziekoli chcecie. Teda tę całą drogę <lb n="19"/> kazania nie przestajał a cuda <lb n="20"/> wielika czynił. Osobnie jedna niewiasta <lb n="21"/> syna swego k niemu przyniosła, <lb n="22"/> jemuż synowi kość rybia <lb n="23"/> w gardle uwiązła, od jejże <lb n="24"/> już skończeć zaczynał. Mać tego <lb n="25"/> dziecięcia płaczęcy pożądała pomocy <lb n="26"/> od świętego Błażeja. Święty <lb n="27"/> Błażej, poprosiw Boga, rękę swą <lb n="28"/> dziecięci na głowę włożył, od jegoż <lb n="29"/> dot<corr>k</corr>nienia dziecię pełne zdrowie <lb n="30"/> wzięło. Jini niemocni, ślepi <lb n="31"/> i chromi prze<corr>z</corr> jego prośbę u<corr>z</corr>drowieni <lb n="32"/> byli. Takie jedna niewi<supplied>asta...</supplied> <cb n="1b"></cb> <lb n="1"/> <gap></gap> A zatym uźrzeli wilka, a on wieprza <lb n="2"/> zasię niesie, i puścił ji cała i zdrowa <lb n="3"/> onej niewieście. A gdyż w m<supplied>ia</supplied>sto <lb n="4"/> przyniesion święty Błażej, teda <lb n="5"/> sędzia tego miasta przykazał <lb n="6"/> ji w ciemnicę prze<corr>z</corr> noc wsa<supplied>dz</supplied>ić, <lb n="7"/> a drugiego dnia kazał ji prze<supplied>d</supplied> <lb n="8"/> się przywieść, jemuż sło<corr>d</corr>kimi <lb n="9"/> słowy rzekł: Miej sie dobrze, Błażeju, <lb n="10"/> przyjacielu naszych bogow. <lb n="11"/> Święty Błażej jemu odp<supplied>o</supplied>wiedz<supplied>iał</supplied> <lb n="12"/> a rzkąc: Miej sie dobrze, do<supplied>b</supplied>ry sędz<supplied>ia</supplied>, <lb n="13"/> ale nie mołw, by waszy bałwanowie <lb n="14"/> bogowie byli, aleć są dyjabl<supplied>i</supplied>, <lb n="15"/> jiż se wszemi <corr>z</corr> tymi, csoż sie jim <lb n="16"/> modlą i w nie wierzą, wiecznem<supplied>u</supplied> <lb n="17"/> ogniu przysądzeni będą. Rozgniewaw <lb n="18"/> sie sędzia, przykazał ji kijmi <lb n="19"/> bić, a zbiwszy <corr>z</corr>asię w ciemnicę <lb n="20"/> wsadzić. Święty Błażej jemu <lb n="21"/> rzekł: Wiło, mnimasz, by twe<corr sic="j"></corr> męki <lb n="22"/> mogły odjąć miłość bożą, ja<supplied>ż</supplied> <lb n="23"/> jest u<corr>ć</corr>wierdzona w siercy me<supplied>m</supplied>? <lb n="24"/> Gotowcieśm ji<corr>ć</corr> nie tele w ciemnicę, <lb n="25"/> ale i we śmierć prze imię <lb n="26"/> Jezu Krystusowo. A <corr>z</corr> tym prze<corr>z</corr> no<supplied>c</supplied> <lb n="27"/> wsadzon do ciemnice. Potem <lb n="28"/> wwiedzion przed sędzią, jenże jął j<supplied>i</supplied> <lb n="29"/> namałwiać onże grozą, onże dobrą <lb n="30"/> rzeczą, aby sie odwrocił od <lb n="31"/> krz<supplied>e</supplied>ścijańskiej wiary. Święty Błaże<supplied>j</supplied> <lb n="32"/> m<corr>ę</corr>żnie żądał cirzpienia prze J<supplied>e</supplied>zu Krysta. <lb n="33"/> Uźrzew to sędzia, kazał j<supplied>i...</supplied> <cb n="1c"></cb> <lb n="1"/> <gap></gap> <corr>z</corr>birać, prze jąż sędzia dał je sjimać, <lb n="2"/> chcąc je przymęcić, aby <lb n="3"/> sie jich bałwanom modliły. Teda <lb n="4"/> jemu ony niewiasty odpowiedziały: <lb n="5"/> Czarny są waszych bogow obr<supplied>a</supplied>zy, <lb n="6"/> ale chcecieli, bychom sie <lb n="7"/> jim modliły, odpuścicież nam, <lb n="8"/> ać je do wody doniesiemy i zmyjemy, <lb n="9"/> więc uźrzycie, iżci sie jim <lb n="10"/> będziemy modlić. Teda sędzia tego <lb n="11"/> wszeg<supplied>o</supplied> jim powolił. Ty iste niewias<supplied>ty</supplied>, <lb n="12"/> wzi<corr>ą</corr>wszy ony dyjabelskie <lb n="13"/> obrazy, niesły je do jeziora i stopiły <lb n="14"/> a rzkąc: Sąli to bogowie, niechać <lb n="15"/> wylazą <corr>z</corr> tego jeziora. To usłyszew <lb n="16"/> sędzia, wściekłym gniewem jął <lb n="17"/> sie sam bić a rzkąc swym sługam: <lb n="18"/> Nędzni, czemuście nie chowali bogow <lb n="19"/> naszych, aby sie jim ta niecześć <lb n="20"/> nie stała? Jidźcież, przywiedźcie <lb n="21"/> przed mię ty niewiasty! A gdyż są <lb n="22"/> przywiedziony, rzekł jim sędzia <lb n="23"/> takoż: Wy dobrą rzeczą mołwiąc, <lb n="24"/> zdradziłyście mie w mych bogoch, <lb n="25"/> wmiotałyście je w jezioro. Jemuż niewiasty <lb n="26"/> odpowiedziały: Bog wszemogący <lb n="27"/> wie myśl człowieczą. A gdyż <lb n="28"/> to twoji bogowie byli, czemuż <lb n="29"/> tego, cso sie jim stało, nie wiedzieli? <lb n="30"/> <gap></gap> skwarzonym ołowiem oblewać, <lb n="31"/> a potem kazał je powiesić i kazał <lb n="32"/> je żelaznymi osękami targać, jichże <lb n="33"/> ciała w śniegowej białości była <gap></gap> <cb n="1d"></cb> <lb n="1"/> <gap></gap> Bądźcie drużnego sierca! Dobrz<supplied>e</supplied>ście <lb n="2"/> poczęły, dobrze doskonajcie! <lb n="3"/> Za krotką mękę wieźmiecie wieczne <lb n="4"/> wiesiele. Usłyszewszy to ony, teda <lb n="5"/> <corr>z</corr> tego każda żądała miłościwie prze <lb n="6"/> Jezu Krysta cirzpieć. Potem sędzia <lb n="7"/> kazał je w wieliki ogień wmiotać, <lb n="8"/> jimże ogień nics nie szkodził. <lb n="9"/> Uźrzew to sędzia rzekł jim: Ostańcie <lb n="10"/> swych czarow a modlcie sie naszym <lb n="11"/> bogom alboć was każę wszystki <lb n="12"/> ścinać. A ony jemu odpowiedziały: <lb n="13"/> Dokonaj, csoś począł. Jużci nas <lb n="14"/> nasz miły Jezu Kryst woła k niebieskiemu <lb n="15"/> krolewstwu. Usłyszew to sędzia, <lb n="16"/> kazał je wszystki pościnać. A gdyż <lb n="17"/> je ku śmierci wywiedziono, <lb n="18"/> pokląkszy na swa kolana, naczęły Boga <lb n="19"/> prosić a jemu sie polecać a rzekąc: <lb n="20"/> Gospodnie wszemogący, jenżeś nas <lb n="21"/> wywiodł <corr>z</corr> ciemności przezwiarstwa <lb n="22"/> a wwiodłeś nas w światłość <lb n="23"/> twej sło<corr>d</corr>kiej znajomości, csożeś <lb n="24"/> nasza ciała kazał sobie żywo ofierować, <lb n="25"/> przyjmi dzisia nasze dusze, <lb n="26"/> tobieć je polecamy. A zatym wszech <lb n="27"/> głowy pościnany. Potem sędzia <lb n="28"/> kazał przed się świętego Błażeja <lb n="29"/> wywieść a rzkąc jemu: Chcesz sie <lb n="30"/> bogom naszym modlić, czyli nie <lb n="31"/> chcesz? Święty Błażej jemu odpowiedział: <lb n="32"/> Stradniku nędzny, nie boję<supplied>ć</supplied><gap/>
+</div1>
+</body> 
+</text>
+</TEI.2> 
+

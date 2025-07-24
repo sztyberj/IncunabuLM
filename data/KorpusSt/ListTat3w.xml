@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='windows-1250' ?>
+<!DOCTYPE TEI.2 SYSTEM "Stp.dtd">
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>List chana perekopskiego do króla Jana Olbrachta: wersja elektroniczna </title>
+				<sponsor>Komitet Badań Naukowych, grant nr 1 H01D 018 19 </sponsor>
+				<principal> Wacław Twardzik</principal>
+				<respStmt>
+					<resp>nowa transkrypcja </resp>
+					<name>Pracownia Języka Staropolskiego Instytutu Języka Polskiego Polskiej Akademii Nauk </name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Instytut Języka Polskiego PAN</distributor>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>							
+			Hamm J<abbr>osip</abbr>:Altpolnisches aus kroatischen Archiven, Wiener Slawistisches Jahrbuch t. 2. Wien 1952
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date>1500</date>
+			</creation>
+			<textClass>
+				<keywords>
+					<term>list</term>
+									</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change n="1">
+				<date value="09-2005">wrzesień 2005</date>
+				<respStmt>
+					<resp>Rafał L. Górski</resp>
+				</respStmt>
+				<item>nowy nagłówek</item>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+<text>
+    <body>
+<div1>
+Jako ociec moj Aczygierej dzierżał przysięgę, takież ja  chcę dz<corr>i</corr>erżeć krolowi bratu naszemu. Jestli nie będę dzierżał, tedy mnie przysięga niechaj porazi. Co będzie mowił Achmet poseł, to moja słowa są z mych ust. Jestli moj poseł będzie zadzierżan, tedy krol brat nasz niechaj pośle tym rychlej k nam gońca swego. Jestli goniec brata naszego przyjedzie tym rychlej k nam, tedy ja wsiędę na szyję wojsku swemu. A brat nasz krol kogo będzie żądął u wielkiego posła, tego ja k niemu poślę. A ktorego będzie chciał krol posłać, niechaj napisze jimię jego, ktorego pośle k nam. Jestli brat nasz pośle k nam Dawida, tedy zasię Dawid weźmie <corr>z</corr> sobą od naszej strony w poselstwie Dowleteka, a jestli dziś przyjedzie, tedy Dowleteka dziś weźmie. Gdyżby nie chciał Dawida posłać, niechaj pośle ktorego raczy jinego dobrego człowieka k nam, a weźmie też Dowleteka, ktoremu by mog Dowletek wierzyć. Jest dwieście Kozakow, ktorzy nie śmieją do Ordy przyjachać, a jam jich wszystki domy obręczył. Brat zięcia cesarza przekopskiego, ktory mięszka w Hordzie Zawolskiej, wskazał do cesarza przekopskiego powiadając mu, jako cesarz zawolski chce ciągnąć ku Niepru, a radząc mu, iżeby tym rychlej wyciągnął <corr>z</corr> Przekopu a ciągnął ku Niepru, a tam jestli brzeg u Niepru oblężesz, tedy zawolski przyciągnąwszy tam umarłby głodem. Jeździł brat moj Jamurczy sołtan do Mahmetowego grobu, prze<corr>z</corr> ktoregom ja wskazał poselstwo do cesarza tureckiego, prosząc jego miłości, iżeby się raczył zjednać <corr>z</corr> krolem polskim a być w mirze. A jestliby tego nie chciał udziałać, tedym mu kazał powiedzieć, iżeć ja mam z dawnych czasow przysięgi <corr>z</corr> krolem polskim, a tak muszę s nim w mirze być. A gdyż się moj brat od grobu Machmetowa wrocił, tedy cesarz turecki wskazał ku mnie prze<corr>z</corr> brata mego i pisał, abych się jednał <corr>z</corr> krolem polskim, com ja gotow uczynić. Nohajski dał zawolskiemu pomoc, iże segnał swego nieprzyjaciela. W Zawolskiej Ordzie ro<corr>z</corr>targnęli się panowie miedzy sobą i zabrali bazar, i <corr>z</corr> połowicą bazaru poszli do Czyrkas. Druga połowica ro<corr>z</corr>targała się między jimi. A przekopski ma za złe Krolowi Jego Miłości, iże miał tam swe posły u zawolskiego.
+</div1>
+</body>
+</text>
+</TEI.2>
+
