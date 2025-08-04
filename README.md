@@ -105,7 +105,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-* Python 3.8+ and Poetry
+* Python 3.10+ and Poetry
 * Docker
 
 ### Installation & Launch
