@@ -1,0 +1,9 @@
+.venv
+__pycache__
+data
+poetry.lock
+IncunabuLM.ipynb
+.gitignore
+models
+*.pt
+*.pth

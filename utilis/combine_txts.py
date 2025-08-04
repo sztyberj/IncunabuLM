@@ -33,7 +33,6 @@ def combine_txt_files(root_folder, output_filepath):
     final_text = separator.join(all_text_content)
 
     try:
-        # Get the directory for the output file and create it if it doesn't exist
         output_dir = os.path.dirname(output_filepath)
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
@@ -50,8 +49,8 @@ def combine_txt_files(root_folder, output_filepath):
 
 
 if __name__ == '__main__':
-    ROOT_FOLDER = r'C:\Users\Jakub\IncunabuLM\data'
+    ROOT_FOLDER = r'.\data\raw'
     
-    OUTPUT_FILEPATH = r'C:\Users\Jakub\IncunabuLM\data_train\data_final.txt'
+    OUTPUT_FILEPATH = r'.\data\data_final.txt'
     
     combine_txt_files(ROOT_FOLDER, OUTPUT_FILEPATH)

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&family=Uncial+Antiqua&display=swap');
+
+.stApp {
+    background-color: #3a2e25 !important;
+    font-family: 'Alegreya', serif !important;
+    }
+
+.title-font {
+    font-family: 'Uncial Antiqua', cursive !important;
+    color: #f5e8c7;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+    font-size: 3rem !important;
+    }
+
+.stApp label {
+    font-size: 1.4em !important;
+    color: #d8c6a2 !important;
+    }
+
+.stTextArea textarea {
+    background-color: #f5e8c7 !important;
+    border: 3px solid #6b4f3a !important;
+    color: #3a2e25 !important;
+    font-family: 'Alegreya', serif !important;
+    font-size: 1.3rem !important;
+    }
+
+.output-container {
+    background-color: #f5e8c7 !important;
+    color: #3a2e25 !important;
+    padding: 25px !important;
+    border: 5px solid #6b4f3a !important;
+    font-family: 'Alegreya', serif !important;
+    font-size: 1.5rem !important;
+    }
+
+div[data-testid="stButton"] > button {
+    font: 'Uncial Antiqua', cursive, 'Times New Roman' !important;
+    background-color: #8a6a4a !important;
+    color: #f5e8c7 !important;
+    border: 2px solid #f5e8c7 !important;
+    padding: 12px 22px !important;
+    font-size: 1.2em !important;
+    }
+
+div[data-testid="stButton"] > button:hover {
+    background-color: #f5e8c7 !important;
+    color: #3a2e25 !important;
+    }

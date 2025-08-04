@@ -1,0 +1,6 @@
+.venv
+__pycache__
+data/raw
+models
+poetry.lock
+data/polish_lectures_wolnelektury-pl.txt
